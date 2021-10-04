@@ -1,0 +1,6 @@
+button {position: relative;left: 6;background: #06c;border: none;border-radius: 14px;padding:
+3px 5px;color: white;font-family: sans-serif;font-weight: 500;font-size: 13.5px;transition:
+all 0.2s ease-in-out;margin-top: 10px;}button:hover {font-size: 16px;}.grid {width: 300px;
+height: 300px;display: flex;flex-wrap: wrap;border-style: solid;background-color: rgb(45, 118, 253);}.grid div {width: 30px;height:
+30px;}.snake {background-color: rgb(20, 255, 126); transition:all .2s ease;}.apple{background:
+linear-gradient(120deg, rgba(255, 81, 0, 0.767), rgb(255, 0, 0));border-radius: 14px;}
